@@ -1,0 +1,2 @@
+In a traditional madlib, you would have bunch of blanks in a paragraph . You have to fill out those blanks and read the paragraph out loud with the words the user chose in those .
+We are recreating it with string concatenation.
